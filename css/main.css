@@ -697,7 +697,7 @@
     -webkit-box-direction: normal;
         -ms-flex-direction: column;
             flex-direction: column;
-    margin-left: 67px;
+    margin-left: 77px;
   }
   .colection .coffee .coffee__image {
     display: -webkit-box;
@@ -841,7 +841,7 @@
         -ms-flex-direction: column;
             flex-direction: column;
     margin-top: 33px;
-    margin-bottom: 68px;
+    margin-bottom: 38px;
   }
   .footer .container .footer__navigetion .nav__menu .menu__item {
     padding: 20px 0;
@@ -1052,7 +1052,7 @@
         -ms-flex-direction: column;
             flex-direction: column;
     margin-top: 33px;
-    margin-bottom: 68px;
+    margin-bottom: 38px;
   }
   .footer .container .footer__navigetion .nav__menu .menu__item {
     padding: 20px 0;
