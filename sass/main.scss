@@ -547,7 +547,7 @@
         text-align: center;
         .section-logo{
             width: 100%;
-            padding: 100px 50px;
+            padding: 100px 30px;
             .section-logo__text{
                 width: 279px;
                 font-size: 40px;
@@ -566,15 +566,13 @@
         margin-bottom: 60px;
         .coffee__text{
             margin-top: 120px;
-            padding-left: 50px;
             font-size: 40px;
             height: 72px;
         }
         .coffee{
             display: flex;
             flex-direction: column;
-            padding-left: 50px;
-            margin-left:47px;
+            margin-left:67px;
             // transform: translateY(-35px);
             .coffee__image{
                 display: flex;
@@ -583,17 +581,14 @@
                 width: 282px;
                 .coffee__jpg{
                     padding-top: 35px;
-                    padding-left: 50px;
                 }
                 .coffee__text-logo{
                     padding-top: 20px;
                     font-size: 24px;
-                    padding-left: 50px;
                 }
                 .coffee__lorem-ipsun{
                     width: 282px;
                     font-size: 16px;
-                    padding-left: 50px;
                     padding-top: 21px;
                 }
             }
@@ -608,12 +603,10 @@
                 .services-logo__text{
                     padding-top: 56px;
                     font-weight: 900;
-                    padding-left: 50px;
                     font-size: 28px;
                 }
                 .services-logo__lorem{
                     padding-top: 20px;
-                    padding-left: 50px;
                     width: 279px;
                     font-size: 15px; 
                     line-height: 25px;
@@ -622,7 +615,7 @@
             .services-logo__services-menu{
                 display: flex;
                 flex-wrap: wrap;
-                margin: 50px 24px;
+                margin: 50px 34px;
                 .services-menu__our-services{
                     display: flex;
                     flex-direction: column;
@@ -631,7 +624,6 @@
                     margin-top: 24px;
                     height: 382px;
                     padding: 0px 24px;
-                    padding-left: 50px;
                     .our-services__imge{
                         padding-top: 69px;
                         padding-left: 50px;
@@ -639,7 +631,6 @@
                     .our-services__texts{
                         padding-top: 50px;
                         margin-left: 0px;
-                        padding-left: 50px;
                         .our-services__link{
                             padding-top: 56px;
                             font-size: 24px;
@@ -647,7 +638,6 @@
                         .our-services__lorem{
                             padding-top: 24px;
                             width: 212px;
-                            padding-left: 50px;
                             font-size: 15px;
                             line-height: 25px;
                         }
@@ -681,17 +671,14 @@
                     width: 327px;
                     .works-logo__text-logo{
                         font-size: 72px;      
-                        padding-left: 50px;
                         padding-top: 62px;
                     }
                     .works-logo__text-to{
                         padding-top: 25px;
-                        padding-left: 50px;
                         font-size: 28px;
                     }
                     .works-logo__lorem-to{
                         padding-top: 25px;
-                        padding-left: 50px;
                         line-height: 25px;
                         font-size: 15px;
                     }
@@ -699,7 +686,6 @@
             }
             .section-logo__button{
                 margin-top: 79px;
-                 padding-left: 50px;
                 margin-left: 50px;
             }
         }
@@ -707,7 +693,7 @@
 
     .footer{
         .container{
-            padding: 55px 35px;
+            padding: 55px 45px;
             flex-direction: column;
             .footer__logo{
                 width: 236px;
@@ -718,7 +704,6 @@
                     flex-direction: column;
                     margin-top: 33px;
                     margin-bottom: 68px;
-                    padding-left: 50px;
                     .menu__item{
                         padding: 20px 0;
                         padding-left: 50px;

@@ -668,7 +668,7 @@
   }
   .section .section-logo {
     width: 100%;
-    padding: 100px 50px;
+    padding: 100px 30px;
   }
   .section .section-logo .section-logo__text {
     width: 279px;
@@ -686,7 +686,6 @@
   }
   .colection .coffee__text {
     margin-top: 120px;
-    padding-left: 50px;
     font-size: 40px;
     height: 72px;
   }
@@ -698,8 +697,7 @@
     -webkit-box-direction: normal;
         -ms-flex-direction: column;
             flex-direction: column;
-    padding-left: 50px;
-    margin-left: 47px;
+    margin-left: 67px;
   }
   .colection .coffee .coffee__image {
     display: -webkit-box;
@@ -714,17 +712,14 @@
   }
   .colection .coffee .coffee__image .coffee__jpg {
     padding-top: 35px;
-    padding-left: 50px;
   }
   .colection .coffee .coffee__image .coffee__text-logo {
     padding-top: 20px;
     font-size: 24px;
-    padding-left: 50px;
   }
   .colection .coffee .coffee__image .coffee__lorem-ipsun {
     width: 282px;
     font-size: 16px;
-    padding-left: 50px;
     padding-top: 21px;
   }
   .services {
@@ -736,12 +731,10 @@
   .services .services-logo .services-logo__banner .services-logo__text {
     padding-top: 56px;
     font-weight: 900;
-    padding-left: 50px;
     font-size: 28px;
   }
   .services .services-logo .services-logo__banner .services-logo__lorem {
     padding-top: 20px;
-    padding-left: 50px;
     width: 279px;
     font-size: 15px;
     line-height: 25px;
@@ -752,7 +745,7 @@
     display: flex;
     -ms-flex-wrap: wrap;
         flex-wrap: wrap;
-    margin: 50px 24px;
+    margin: 50px 34px;
   }
   .services .services-logo .services-logo__services-menu .services-menu__our-services {
     display: -webkit-box;
@@ -767,7 +760,6 @@
     margin-top: 24px;
     height: 382px;
     padding: 0px 24px;
-    padding-left: 50px;
   }
   .services .services-logo .services-logo__services-menu .services-menu__our-services .our-services__imge {
     padding-top: 69px;
@@ -776,7 +768,6 @@
   .services .services-logo .services-logo__services-menu .services-menu__our-services .our-services__texts {
     padding-top: 50px;
     margin-left: 0px;
-    padding-left: 50px;
   }
   .services .services-logo .services-logo__services-menu .services-menu__our-services .our-services__texts .our-services__link {
     padding-top: 56px;
@@ -785,7 +776,6 @@
   .services .services-logo .services-logo__services-menu .services-menu__our-services .our-services__texts .our-services__lorem {
     padding-top: 24px;
     width: 212px;
-    padding-left: 50px;
     font-size: 15px;
     line-height: 25px;
   }
@@ -819,27 +809,23 @@
   }
   .how-works .works-logo .works-logo__biyutfil .works-logo__texts .works-logo__text-logo {
     font-size: 72px;
-    padding-left: 50px;
     padding-top: 62px;
   }
   .how-works .works-logo .works-logo__biyutfil .works-logo__texts .works-logo__text-to {
     padding-top: 25px;
-    padding-left: 50px;
     font-size: 28px;
   }
   .how-works .works-logo .works-logo__biyutfil .works-logo__texts .works-logo__lorem-to {
     padding-top: 25px;
-    padding-left: 50px;
     line-height: 25px;
     font-size: 15px;
   }
   .how-works .works-logo .section-logo__button {
     margin-top: 79px;
-    padding-left: 50px;
     margin-left: 50px;
   }
   .footer .container {
-    padding: 55px 35px;
+    padding: 55px 45px;
     -webkit-box-orient: vertical;
     -webkit-box-direction: normal;
         -ms-flex-direction: column;
@@ -856,7 +842,6 @@
             flex-direction: column;
     margin-top: 33px;
     margin-bottom: 68px;
-    padding-left: 50px;
   }
   .footer .container .footer__navigetion .nav__menu .menu__item {
     padding: 20px 0;
