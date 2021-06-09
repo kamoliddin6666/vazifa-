@@ -764,7 +764,7 @@
         -ms-flex-pack: center;
             justify-content: center;
     width: 333px;
-    padding-left: 39px;
+    padding-left: 19px;
     margin-bottom: 70px;
   }
   .how-works .container .works-logo .works-logo__biyutfil .works-logo__texts {
@@ -791,7 +791,7 @@
     display: -webkit-box;
     display: -ms-flexbox;
     display: flex;
-    padding: 111px 35px;
+    padding: 111px 25px;
   }
   .deliveries .deliveries-logo .deliveries-logo__right-logo {
     display: -webkit-box;
@@ -828,7 +828,7 @@
             flex-direction: column;
   }
   .deliveries .deliveries-logo .deliveries-logo__right-logo .right-logo__right .right__capsule .capsule__capsule-logo {
-    padding: 0 25px;
+    padding: 0 15px;
     width: 328px;
     height: 140px;
     margin: 10px 20px;
