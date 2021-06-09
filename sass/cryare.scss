@@ -567,40 +567,20 @@
     }
 
     .footer{
-        .footer-logo{
-            height: 270px;
-            margin-bottom: 0;
-            padding: 0px 0;
-            display: flex;
-            // justify-content: center;
-            align-items: center;
+        .container{
+            padding: 55px 35px;
             flex-direction: column;
-            .menu-logo{
-                display: flex;
-                align-items: center;
-                .menu-logo__iytms{
-                    padding: 0 32px;
-                    .menu-logo__link{
-                        color: #83888F;
-                        font-weight: bold;
-                        font-size: 12px;
-                        font-family: 'Barlow', sans-serif;
-                        &:hover{
-                            color: black;
-                            border-bottom: 2px solid black;
-                        }
-                    }
-                }
+            .footer__logo{
+                width: 236px;
+                height: 26px;
             }
-            .icon{
-                display: flex;
-                .icon__imge{
-                    width: 50px;
-                    svg{
-                        fill: #fff;
-                        &:hover{
-                            fill: #FDD6BA;
-                        }
+            .footer__navigetion{
+                .nav__menu{
+                    flex-direction: column;
+                    margin-top: 33px;
+                    margin-bottom: 68px;
+                    .menu__item{
+                        padding: 10px 0;
                     }
                 }
             }
