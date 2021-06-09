@@ -722,7 +722,7 @@
   .abut-us .about-logo {
     text-align: center;
     height: 400px;
-    padding: 111px 24px;
+    padding: 111px 34px;
   }
   .abut-us .about-logo .about-logo__text {
     font-size: 32px;
@@ -738,7 +738,7 @@
     max-width: 768px;
   }
   .how-works .container .works-logo {
-    padding: 2px 24px;
+    padding: 2px 44px;
     margin-top: 57px;
     margin-bottom: 0px;
   }
@@ -764,7 +764,7 @@
         -ms-flex-pack: center;
             justify-content: center;
     width: 333px;
-    padding-left: 19px;
+    padding-left: 39px;
     margin-bottom: 70px;
   }
   .how-works .container .works-logo .works-logo__biyutfil .works-logo__texts {
@@ -777,7 +777,7 @@
   }
   .how-works .container .works-logo .works-logo__biyutfil .works-logo__texts .works-logo__text-to {
     width: 260px;
-    margin-left: 19px;
+    margin-left: 39px;
     padding-top: 24px;
     font-size: 28px;
   }
@@ -791,7 +791,7 @@
     display: -webkit-box;
     display: -ms-flexbox;
     display: flex;
-    padding: 111px 0px;
+    padding: 111px 35px;
   }
   .deliveries .deliveries-logo .deliveries-logo__right-logo {
     display: -webkit-box;
@@ -831,7 +831,7 @@
     padding: 0 25px;
     width: 328px;
     height: 140px;
-    margin: 10px 0;
+    margin: 10px 20px;
   }
   .deliveries .deliveries-logo .deliveries-logo__right-logo .right-logo__right .right__capsule .capsule__capsule-logo h3 {
     padding-top: 24px;
